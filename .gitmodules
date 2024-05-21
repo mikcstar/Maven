@@ -1,0 +1,3 @@
+[submodule "pxgrid-rest-ws"]
+	path = pxgrid-rest-ws
+	url = https://github.com/cisco-pxgrid/pxgrid-rest-ws.git
